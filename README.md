@@ -23,7 +23,7 @@
 * InputStream, OutputStream — basic classes for working with data streams [✅]
 * Reader, Writer — working with texts data [✅]
 * BufferedReader, BufferedWriter — buffered streams [✅]
-* Serializable — interface for serialization objects
+* Serializable — interface for serialization objects [✅]
 
 ## 3. Multithreading
 * Thread — creating and management flows
