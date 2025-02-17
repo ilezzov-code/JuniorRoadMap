@@ -22,7 +22,7 @@
 * File, Paths — working with files [✅]
 * InputStream, OutputStream — basic classes for working with data streams [✅]
 * Reader, Writer — working with texts data [✅]
-* BufferedReader, BufferedWriter — buffered streams
+* BufferedReader, BufferedWriter — buffered streams [✅]
 * Serializable — interface for serialization objects
 
 ## 3. Multithreading
