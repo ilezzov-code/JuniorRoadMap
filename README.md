@@ -12,7 +12,7 @@
 * HashSet, TreeSet — Sets [✅]
 * Collections — utils for working with collections [✅]
 * Arrays — utils for working with arrays [✅]
-* Scanner — methods [❌]
+* Scanner — methods [✅]
 * Date, Calendar — working with time [✅]
 * Iterator, Comparator, Comparable [✅]
 * Try, catch, finally [✅]
