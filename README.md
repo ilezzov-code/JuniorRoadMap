@@ -21,7 +21,7 @@
 ## 2. Working with Files
 * File, Paths — working with files [✅]
 * InputStream, OutputStream — basic classes for working with data streams [✅]
-* Reader, Writer — working with texts data
+* Reader, Writer — working with texts data [✅]
 * BufferedReader, BufferedWriter — buffered streams
 * Serializable — interface for serialization objects
 
