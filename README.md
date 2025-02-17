@@ -19,7 +19,7 @@
 * Switch, case [✅]
 
 ## 2. Working with Files
-* File, Paths — working with files
+* File, Paths — working with files [✅]
 * InputStream, OutputStream — basic classes for working with data streams
 * Reader, Writer — working with texts data
 * BufferedReader, BufferedWriter — buffered streams
