@@ -58,4 +58,8 @@
 ## 11. Testing
 * Soon...
 
+## 12. Dependencies
+* Lambook [✅]
+* Jackson [✅]
+
 
